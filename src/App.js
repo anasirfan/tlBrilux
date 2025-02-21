@@ -6,20 +6,20 @@ import Navbar from './components/Navbar';
 import NormalButton from './components/NormalButton';
 
 // Import images
-import light1 from './assets/light1.jpg';
-import light2 from './assets/light2.jpg';
-import light3 from './assets/light3.jpg';
-import light4 from './assets/light4.jpg';
-import light5 from './assets/light5.jpg';
-import light6 from './assets/light6.jpg';
+import light1 from './assets/light1.webp';
+import light2 from './assets/light2.webp';
+import light3 from './assets/light3.webp';
+import light4 from './assets/light4.webp';
+import light5 from './assets/light5.webp';
+import light6 from './assets/light6.webp';
 
 // Import feature images
-import smartControlImg from './assets/smart.jpg';
-import energyEfficiencyImg from './assets/energy.jpg';
-import customThemesImg from './assets/custom-lights.jpg';
-import voiceControlImg from './assets/voice-control.jpg';
-import smartSchedulingImg from './assets/smart-scheduling.jpg';
-import enhancedSecurityImg from './assets/security.jpg';
+import smartControlImg from './assets/smart.webp';
+import energyEfficiencyImg from './assets/energy.webp';
+import customThemesImg from './assets/custom-lights.webp';
+import voiceControlImg from './assets/voice-control.webp';
+import smartSchedulingImg from './assets/smart-scheduling.webp';
+import enhancedSecurityImg from './assets/security.webp';
 
 function App() {
   const handleNavigation = (section) => {
